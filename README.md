@@ -20,7 +20,7 @@ npm install
 2. Create a `.env` file in the project root with your Segment source write key:
 
 ```env
-SEGMENT_WRITE_KEY=your_segment_write_key
+SEGMENT_WRITE_KEY=
 ```
 
 ## Run
